@@ -1,7 +1,7 @@
 # The Corner - Análisis de boxeo con IA
 
 ## Contexto
-Proyecto personal de Ignacio, inspirado en Padmi (pádel): estimación de pose ("esqueleto digital"),
+Proyecto personal de Ignacio, inspirado en el análisis de pádel con cámaras e IA: estimación de pose ("esqueleto digital"),
 ficha del jugador y consejos. Aquí aplicado al boxeo: entra un vídeo de alguien haciendo sombra y sale
 un análisis con esqueleto, métricas, nota de 0 a 100 y tres consejos.
 

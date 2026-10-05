@@ -1,6 +1,6 @@
 # Boxeo MVP: plan y prompts para Claude Code
 
-Objetivo: un MVP tipo "Padmi del boxeo" listo para enseñar a Ángel el lunes o martes, antes del viaje del miércoles.
+Objetivo: un MVP de análisis de boxeo con IA listo para enseñar el lunes o martes, antes del viaje del miércoles.
 
 | Cuándo | Objetivo |
 |---|---|
@@ -9,7 +9,7 @@ Objetivo: un MVP tipo "Padmi del boxeo" listo para enseñar a Ángel el lunes o 
 | **Sábado** | Calibración: que detecte bien los golpes y puntúe con sentido |
 | **Domingo** | Ficha visual, overlays del vídeo y consejos |
 | **Lunes** | App online + README como caso de producto |
-| **Martes** | Vídeo demo, mensaje a Ángel y margen para arreglos |
+| **Martes** | Vídeo demo y margen para arreglos |
 
 No hace falta conectar nada de Google: MediaPipe es una librería de Google, pero funciona sin cuenta.
 
@@ -70,7 +70,7 @@ Graba 4 clips de 20-40 segundos y guárdalos en la carpeta `data/` del proyecto:
 - Buena luz y 60 fps si tu móvil lo permite.
 - Solo tú en el plano.
 
-**Por qué los clips "malos":** son tus casos de prueba. Si el sistema no les baja la nota en la métrica correcta, algo falla. Eso es QA funcional, y es una gran historia para contarle a Ángel.
+**Por qué los clips "malos":** son tus casos de prueba. Si el sistema no les baja la nota en la métrica correcta, algo falla. Eso es QA funcional.
 
 ---
 
@@ -142,8 +142,7 @@ En Streamlit Community Cloud entras con tu cuenta de GitHub, eliges el repo y te
 ## PASO 6. Demo y envío (martes)
 
 1. **Graba la pantalla (1-2 minutos):** subes un vídeo, sale el análisis y explicas dos decisiones de producto (qué dejaste fuera y por qué).
-2. **Mensaje a Ángel:** lo redactamos juntos con el enlace de la app, el repo y la demo.
-3. **Margen:** si algo se ha roto, se arregla hoy.
+2. **Margen:** si algo se ha roto, se arregla hoy.
 
 ---
 
