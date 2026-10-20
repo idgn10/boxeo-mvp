@@ -1,6 +1,6 @@
 # Boxeo MVP: plan y prompts para Claude Code
 
-Objetivo: un MVP de análisis de boxeo con IA listo para enseñar el lunes o martes, antes del viaje del miércoles.
+Objetivo: un MVP de análisis de boxeo con IA listo para enseñar el lunes o martes.
 
 | Cuándo | Objetivo |
 |---|---|
